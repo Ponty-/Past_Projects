@@ -1,0 +1,4 @@
+abcd
+dcba
+bdac
+cadb

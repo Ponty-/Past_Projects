@@ -1,0 +1,689 @@
+Info: %s%s%s%s%s
+Info: Team1: 123B, D
+Info: Team2: C, zzzzA
+S: 9 4
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+Info: 123B bids 7H
+Info: C passes
+Info: D bids 8S
+[8S] - Bid (or pass)> Info: 123B passes
+Info: D plays TS
+S: 9 4
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+[S] play> Info: 123B plays AS
+Info: C plays 7S
+Info: 123B won
+Info: 123B plays KS
+Info: C plays QS
+Info: D plays 6S
+S: 4
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+[S] play> Info: 123B won
+Info: 123B plays QH
+Info: C plays AH
+Info: D plays 4H
+S:
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+[H] play> Info: C won
+Info: C plays QC
+Info: D plays 2C
+S:
+C: K 9 4
+D: A Q 8 4 2
+H: J 8
+[C] play> Info: 123B plays 5C
+Info: C won
+Info: C plays KD
+Info: D plays 3D
+S:
+C: K 9
+D: A Q 8 4 2
+H: J 8
+[D] play> S:
+C: K 9
+D: A Q 8 4 2
+H: J 8
+[D] play> Info: 123B plays JS
+Info: 123B won
+Info: 123B plays 7H
+Info: C plays TH
+Info: D plays 9H
+S:
+C: K 9
+D: A Q 8 4
+H: J 8
+[H] play> Info: C won
+Info: C plays 7C
+Info: D plays AC
+S:
+C: K 9
+D: A Q 8 4
+H: J
+[C] play> Info: 123B plays 8C
+Info: D won
+Info: D plays KH
+S:
+C: K
+D: A Q 8 4
+H: J
+[H] play> S:
+C: K
+D: A Q 8 4
+H: J
+[H] play> Info: 123B plays 3H
+Info: C plays 2H
+Info: D won
+Info: D plays TC
+S:
+C: K
+D: A Q 8 4
+H:
+[C] play> Info: 123B plays JC
+Info: C plays 3C
+Info: zzzzA won
+S:
+C:
+D: A Q 8 4
+H:
+Lead> Info: 123B plays 2S
+Info: C plays 5D
+Info: D plays JD
+Info: 123B won
+Info: 123B plays 8S
+Info: C plays 7D
+Info: D plays 6C
+S:
+C:
+D: Q 8 4
+H:
+[S] play> Info: 123B won
+Info: 123B plays 3S
+Info: C plays TD
+Info: D plays 6D
+S:
+C:
+D: 8 4
+H:
+[S] play> Info: 123B won
+Info: 123B plays 5S
+Info: C plays 6H
+Info: D plays 9D
+S:
+C:
+D: 8
+H:
+[S] play> Info: 123B won
+Info: Team 1=220, Team 2=0
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8 5
+Info: 123B bids 6S
+Info: C bids 6H
+Info: D passes
+[6H] - Bid (or pass)> Info: 123B passes
+Info: C plays AH
+Info: D plays KH
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8 5
+[H] play> Info: 123B plays 3H
+Info: C won
+Info: C plays KD
+Info: D plays 3D
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8
+[D] play> Info: 123B plays 2S
+Info: zzzzA won
+S: 9 4
+C: K 7 4
+D: Q 8 4 2
+H: J 8
+Lead> Info: 123B plays 5C
+Info: C plays 3C
+Info: D plays 2C
+Info: zzzzA won
+S: 9 4
+C: 7 4
+D: Q 8 4 2
+H: J 8
+Lead> Info: 123B plays TC
+Info: C plays 5D
+Info: D plays 6D
+Info: zzzzA won
+S: 9 4
+C: 7 4
+D: 8 4 2
+H: J 8
+Lead> Info: 123B plays AS
+Info: C plays 7S
+Info: D plays 6S
+Info: 123B won
+Info: 123B plays KS
+Info: C plays QS
+Info: D plays TS
+S: 4
+C: 7 4
+D: 8 4 2
+H: J 8
+[S] play> Info: 123B won
+Info: 123B plays 3S
+Info: C plays TH
+Info: D plays 6C
+S:
+C: 7 4
+D: 8 4 2
+H: J 8
+[S] play> Info: C won
+Info: C plays QC
+Info: D plays AC
+S:
+C: 7 4
+D: 8 4
+H: J 8
+[C] play> Info: 123B plays JC
+Info: D won
+Info: D plays 4H
+S:
+C: 7
+D: 8 4
+H: J 8
+[H] play> Info: 123B plays 7H
+Info: C plays 2H
+Info: zzzzA won
+S:
+C: 7
+D: 8 4
+H: J
+Lead> Info: 123B plays QH
+Info: C plays 6H
+Info: D plays 9H
+Info: 123B won
+Info: 123B plays 5S
+Info: C plays 7D
+Info: D plays 9D
+S:
+C: 7
+D: 8 4
+H:
+[S] play> Info: 123B won
+Info: 123B plays 8S
+Info: C plays 9C
+Info: D plays 8C
+S:
+C: 7
+D: 8
+H:
+[S] play> Info: 123B won
+Info: 123B plays JS
+Info: C plays TD
+Info: D plays JD
+S:
+C:
+D: 8
+H:
+[S] play> Info: 123B won
+Info: Team 1=220, Team 2=150
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+Info: 123B bids 6S
+Info: C bids 7H
+Info: D passes
+[7H] - Bid (or pass)> Info: 123B passes
+Info: C plays AC
+Info: D plays KC
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+[C] play> Info: 123B plays 3C
+Info: C won
+Info: C plays TC
+Info: D plays 4C
+S: A K J 8 5 3 2
+C: J 8
+D:
+H: Q 7 3
+[C] play> Info: 123B plays 7C
+Info: C won
+Info: C plays KH
+Info: D plays 5H
+S: A K J 8 5 3 2
+C: J
+D:
+H: Q 7 3
+[H] play> Info: 123B plays 2H
+Info: C won
+Info: C plays JD
+Info: D plays 2D
+S: A K J 8 5 3 2
+C: J
+D:
+H: Q 7
+[D] play> Info: 123B plays 5D
+Info: C won
+Info: C plays 9D
+Info: D plays 4D
+S: A K J 8 5 3
+C: J
+D:
+H: Q 7
+[D] play> Info: 123B plays 7D
+Info: C won
+Info: C plays 9H
+Info: D plays JH
+S: A K J 8 5
+C: J
+D:
+H: Q 7
+[H] play> Info: 123B plays AH
+Info: 123B won
+Info: 123B plays QC
+Info: C plays 2C
+Info: D plays 9C
+S: A K J 8 5
+C: J
+D:
+H: Q
+[C] play> Info: 123B won
+Info: 123B plays 6H
+Info: C plays 4H
+Info: D plays 8H
+S: A K J 8 5
+C:
+D:
+H: Q
+[H] play> Info: zzzzA won
+S: A K J 8 5
+C:
+D:
+H:
+Lead> Info: 123B plays QS
+Info: C plays 6S
+Info: D plays 4S
+Info: 123B won
+Info: 123B plays 7S
+Info: C plays TS
+Info: D plays 9S
+S: A K J 8
+C:
+D:
+H:
+[S] play> Info: C won
+Info: C plays 6C
+Info: D plays 8D
+S: A K J
+C:
+D:
+H:
+[C] play> Info: 123B plays TD
+Info: C won
+Info: C plays 3D
+Info: D plays AD
+S: A K
+C:
+D:
+H:
+[D] play> Info: 123B plays KD
+Info: D won
+Info: D plays QD
+S: A
+C:
+D:
+H:
+[D] play> Info: 123B plays TH
+Info: C plays 6D
+Info: 123B won
+Info: Team 1=220, Team 2=350
+S: 9 4
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+Info: 123B bids 9H
+Info: 123B plays 2S
+Info: C plays QS
+Info: D plays TS
+S: 9 4
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+[S] play> Info: C won
+Info: C plays 3C
+Info: D plays AC
+S: 9
+C: K 9 4
+D: A Q 8 4 2
+H: J 8 5
+[C] play> Info: 123B plays 5C
+Info: D won
+Info: D plays KH
+S: 9
+C: 9 4
+D: A Q 8 4 2
+H: J 8 5
+[H] play> Info: 123B plays 3H
+Info: C plays AH
+Info: C won
+Info: C plays 7S
+Info: D plays 6S
+S: 9
+C: 9 4
+D: A Q 8 4 2
+H: J 8
+[S] play> Info: 123B plays 3S
+Info: zzzzA won
+S:
+C: 9 4
+D: A Q 8 4 2
+H: J 8
+Lead> Info: 123B plays 8C
+Info: C plays 5D
+Info: D plays JD
+Info: zzzzA won
+S:
+C: 9 4
+D: Q 8 4 2
+H: J 8
+Lead> Info: 123B plays JC
+Info: C plays 7C
+Info: D plays TC
+Info: 123B won
+Info: 123B plays AS
+Info: C plays KD
+Info: D plays 6C
+S:
+C: 4
+D: Q 8 4 2
+H: J 8
+[S] play> Info: zzzzA won
+S:
+C: 4
+D: Q 8 4 2
+H: J
+Lead> Info: 123B plays QH
+Info: C plays 2H
+Info: D plays 4H
+Info: 123B won
+Info: 123B plays 7H
+Info: C plays 6H
+Info: D plays 9H
+S:
+C: 4
+D: Q 8 4 2
+H:
+[H] play> Info: D won
+Info: D plays 2C
+S:
+C: 4
+D: Q 8 4
+H:
+[C] play> Info: 123B plays 5S
+Info: C plays QC
+Info: C won
+Info: C plays 7D
+Info: D plays 3D
+S:
+C:
+D: Q 8 4
+H:
+[D] play> Info: 123B plays 8S
+Info: zzzzA won
+S:
+C:
+D: 8 4
+H:
+Lead> Info: 123B plays JS
+Info: C plays TD
+Info: D plays 9D
+Info: C won
+Info: C plays TH
+Info: D plays 6D
+S:
+C:
+D: 4
+H:
+[H] play> Info: 123B plays KS
+Info: C won
+Info: Team 1=-80, Team 2=350
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8 5
+Info: 123B bids 9H
+Info: 123B plays 3H
+Info: C plays AH
+Info: D plays 4H
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8 5
+[H] play> Info: C won
+Info: C plays 7S
+Info: D plays TS
+S: 9 4
+C: K 7 4
+D: A Q 8 4 2
+H: J 8
+[S] play> Info: 123B plays AS
+Info: 123B won
+Info: 123B plays KS
+Info: C plays QS
+Info: D plays 6S
+S: 9
+C: K 7 4
+D: A Q 8 4 2
+H: J 8
+[S] play> Info: 123B won
+Info: 123B plays 5C
+Info: C plays QC
+Info: D plays 2C
+S:
+C: K 7 4
+D: A Q 8 4 2
+H: J 8
+[C] play> Info: C won
+Info: C plays KD
+Info: D plays 3D
+S:
+C: K 7
+D: A Q 8 4 2
+H: J 8
+[D] play> Info: 123B plays 7H
+Info: 123B won
+Info: 123B plays QH
+Info: C plays TH
+Info: D plays 9H
+S:
+C: K 7
+D: A Q 8 4
+H: J 8
+[H] play> Info: 123B won
+Info: 123B plays 2S
+Info: C plays 2H
+Info: D plays AC
+S:
+C: K 7
+D: A Q 8 4
+H: J
+[S] play> Info: C won
+Info: C plays 6H
+Info: D plays KH
+S:
+C: K 7
+D: A Q 8
+H: J
+[H] play> S:
+C: K 7
+D: A Q 8
+H: J
+[H] play> Info: 123B plays 3S
+Info: D won
+Info: D plays JD
+S:
+C: K 7
+D: A Q 8
+H:
+[D] play> Info: 123B plays 5S
+Info: C plays 5D
+Info: zzzzA won
+S:
+C: K 7
+D: Q 8
+H:
+Lead> Info: 123B plays JC
+Info: C plays 3C
+Info: D plays 8C
+Info: 123B won
+Info: 123B plays 8S
+Info: C plays 9C
+Info: D plays 6D
+S:
+C: K
+D: Q 8
+H:
+[S] play> Info: 123B won
+Info: 123B plays JS
+Info: C plays 7D
+Info: D plays 6C
+S:
+C:
+D: Q 8
+H:
+[S] play> Info: 123B won
+Info: 123B plays TC
+Info: C plays TD
+Info: D plays 9D
+S:
+C:
+D: Q
+H:
+[C] play> Info: 123B won
+Info: Team 1=220, Team 2=350
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+Info: 123B bids 9H
+Info: 123B plays AH
+Info: C plays KH
+Info: D plays 5H
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+[H] play> Info: 123B won
+Info: 123B plays KD
+Info: C plays JD
+Info: D plays 2D
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7
+[D] play> Info: zzzzA won
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q
+Lead> Info: 123B plays 2H
+Info: C plays 4H
+Info: D plays 8H
+Info: zzzzA won
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H:
+Lead> Info: 123B plays 7S
+Info: C plays 6S
+Info: D plays 4S
+Info: zzzzA won
+S: K J 8 5 3 2
+C: J 8 5
+D:
+H:
+Lead> Info: 123B plays QS
+Info: C plays TS
+Info: D plays 9S
+Info: zzzzA won
+S: J 8 5 3 2
+C: J 8 5
+D:
+H:
+Lead> Info: 123B plays 6H
+Info: C plays AC
+Info: D plays 4C
+Info: 123B won
+Info: 123B plays QC
+Info: C plays TC
+Info: D plays 9C
+S: 8 5 3 2
+C: J 8 5
+D:
+H:
+[C] play> Info: 123B won
+Info: 123B plays 7C
+Info: C plays 2C
+Info: D plays KC
+S: 8 5 3 2
+C: J 8
+D:
+H:
+[C] play> S: 8 5 3 2
+C: J 8
+D:
+H:
+[C] play> Info: D won
+Info: D plays AD
+S: 8 5 3 2
+C: J
+D:
+H:
+[D] play> Info: 123B plays TD
+Info: C plays 9D
+Info: D won
+Info: D plays JH
+S: 5 3 2
+C: J
+D:
+H:
+[H] play> Info: 123B plays TH
+Info: C plays 9H
+Info: D won
+Info: D plays 4D
+S: 5 3
+C: J
+D:
+H:
+[D] play> Info: 123B plays 5D
+Info: C plays 3D
+Info: 123B won
+Info: 123B plays 7D
+Info: C plays 6D
+Info: D plays 8D
+S: 5
+C: J
+D:
+H:
+[D] play> Info: D won
+Info: D plays QD
+S: 5
+C:
+D:
+H:
+[D] play> Info: 123B plays 3C
+Info: C plays 6C
+Info: D won
+Info: Team 1=520, Team 2=350
+Info: Winner is Team 1

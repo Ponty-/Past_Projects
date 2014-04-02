@@ -1,0 +1,689 @@
+Info: %s%s%s%s%s
+Info: Team1: 123456, dddd
+Info: Team2: CCC, zzzzzzzz
+S: Q 7
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+Info: 123456 bids 7H
+[7H] - Bid (or pass)> Info: dddd bids 8S
+Info: zzzzzzzz passes
+Info: 123456 passes
+Info: dddd plays TS
+Info: zzzzzzzz plays 9S
+Info: 123456 plays AS
+S: Q 7
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+[S] play> Info: 123456 won
+Info: 123456 plays KS
+S: Q
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+[S] play> Info: dddd plays 6S
+Info: zzzzzzzz plays 4S
+Info: 123456 won
+Info: 123456 plays QH
+S:
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+[H] play> Info: dddd plays 4H
+Info: zzzzzzzz plays 5H
+Info: CCC won
+S:
+C: Q 7 3
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays 2C
+Info: zzzzzzzz plays 4C
+Info: 123456 plays 5C
+Info: CCC won
+S:
+C: 7 3
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays 3D
+Info: zzzzzzzz plays 2D
+Info: 123456 plays JS
+Info: 123456 won
+Info: 123456 plays 7H
+S:
+C: 7 3
+D: T 7 5
+H: T 6 2
+[H] play> Info: dddd plays 9H
+Info: zzzzzzzz plays 8H
+Info: CCC won
+S:
+C: 7 3
+D: T 7 5
+H: 6 2
+Lead> Info: dddd plays AC
+Info: zzzzzzzz plays 9C
+Info: 123456 plays 8C
+Info: dddd won
+Info: dddd plays KH
+Info: zzzzzzzz plays JH
+Info: 123456 plays 3H
+S:
+C: 3
+D: T 7 5
+H: 6 2
+[H] play> Info: dddd won
+Info: dddd plays TC
+Info: zzzzzzzz plays KC
+Info: 123456 plays JC
+S:
+C: 3
+D: T 7 5
+H: 6
+[C] play> Info: zzzzzzzz won
+Info: zzzzzzzz plays AD
+Info: 123456 plays 2S
+S:
+C:
+D: T 7 5
+H: 6
+[D] play> Info: dddd plays JD
+Info: 123456 won
+Info: 123456 plays 8S
+S:
+C:
+D: T 7
+H: 6
+[S] play> Info: dddd plays 6C
+Info: zzzzzzzz plays QD
+Info: 123456 won
+Info: 123456 plays 3S
+S:
+C:
+D: T
+H: 6
+[S] play> Info: dddd plays 6D
+Info: zzzzzzzz plays 4D
+Info: 123456 won
+Info: 123456 plays 5S
+S:
+C:
+D:
+H: 6
+[S] play> Info: dddd plays 9D
+Info: zzzzzzzz plays 8D
+Info: 123456 won
+Info: Team 1=220, Team 2=0
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: A T 6 2
+Info: 123456 bids 6S
+[6S] - Bid (or pass)> Info: dddd passes
+Info: zzzzzzzz passes
+Info: 123456 passes
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: A T 6 2
+Lead> Info: dddd plays KH
+Info: zzzzzzzz plays 5H
+Info: 123456 plays 3H
+Info: CCC won
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays 3D
+Info: zzzzzzzz plays AD
+Info: 123456 plays 2S
+Info: zzzzzzzz won
+Info: zzzzzzzz plays KC
+Info: 123456 plays 5C
+S: Q 7
+C: Q 9 3
+D: T 7 5
+H: T 6 2
+[C] play> Info: dddd plays 2C
+Info: zzzzzzzz won
+Info: zzzzzzzz plays QD
+Info: 123456 plays TC
+S: Q 7
+C: Q 9
+D: T 7 5
+H: T 6 2
+[D] play> S: Q 7
+C: Q 9
+D: T 7 5
+H: T 6 2
+[D] play> Info: dddd plays 6D
+Info: zzzzzzzz won
+Info: zzzzzzzz plays 9S
+Info: 123456 plays AS
+S: Q 7
+C: Q 9
+D: T 7
+H: T 6 2
+[S] play> Info: dddd plays 6S
+Info: 123456 won
+Info: 123456 plays KS
+S: Q
+C: Q 9
+D: T 7
+H: T 6 2
+[S] play> Info: dddd plays TS
+Info: zzzzzzzz plays 4S
+Info: 123456 won
+Info: 123456 plays 3S
+S:
+C: Q 9
+D: T 7
+H: T 6 2
+[S] play> Info: dddd plays 6C
+Info: zzzzzzzz plays 2D
+Info: CCC won
+S:
+C: Q 9
+D: T 7
+H: 6 2
+Lead> Info: dddd plays AC
+Info: zzzzzzzz plays 4C
+Info: 123456 plays JC
+Info: dddd won
+Info: dddd plays 4H
+Info: zzzzzzzz plays 8H
+Info: 123456 plays 7H
+S:
+C: 9
+D: T 7
+H: 6 2
+[H] play> Info: zzzzzzzz won
+Info: zzzzzzzz plays JH
+Info: 123456 plays QH
+S:
+C: 9
+D: T 7
+H: 6
+[H] play> Info: dddd plays 9H
+Info: 123456 won
+Info: 123456 plays 5S
+S:
+C: 9
+D: T 7
+H:
+[S] play> Info: dddd plays 9D
+Info: zzzzzzzz plays 4D
+Info: 123456 won
+Info: 123456 plays 8S
+S:
+C: 9
+D: T
+H:
+[S] play> Info: dddd plays 8C
+Info: zzzzzzzz plays 7C
+Info: 123456 won
+Info: 123456 plays JS
+S:
+C:
+D: T
+H:
+[S] play> Info: dddd plays JD
+Info: zzzzzzzz plays 8D
+Info: 123456 won
+Info: Team 1=220, Team 2=150
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+Info: 123456 bids 6S
+[6S] - Bid (or pass)> Info: dddd passes
+Info: zzzzzzzz passes
+Info: 123456 passes
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+Lead> Info: dddd plays KC
+Info: zzzzzzzz plays 5C
+Info: 123456 plays 3C
+Info: CCC won
+S: T 6
+C: T 6 2
+D: J 9 6 3
+H: K 9 4
+Lead> Info: dddd plays 4C
+Info: zzzzzzzz plays 8C
+Info: 123456 plays 7C
+Info: CCC won
+S: T 6
+C: 6 2
+D: J 9 6 3
+H: K 9 4
+Lead> Info: dddd plays 5H
+Info: zzzzzzzz plays 3H
+Info: 123456 plays 2H
+Info: CCC won
+S: T 6
+C: 6 2
+D: J 9 6 3
+H: 9 4
+Lead> Info: dddd plays 2D
+Info: zzzzzzzz plays 2S
+Info: 123456 plays 5D
+Info: CCC won
+S: T 6
+C: 6 2
+D: 9 6 3
+H: 9 4
+Lead> Info: dddd plays 4D
+Info: zzzzzzzz plays 3S
+Info: 123456 plays 7D
+Info: CCC won
+S: T 6
+C: 6 2
+D: 6 3
+H: 9 4
+Lead> Info: dddd plays JH
+Info: zzzzzzzz plays 7H
+Info: 123456 plays AH
+Info: 123456 won
+Info: 123456 plays QC
+S: T 6
+C: 6 2
+D: 6 3
+H: 4
+[C] play> S: T 6
+C: 6 2
+D: 6 3
+H: 4
+[C] play> Info: dddd plays 9C
+Info: zzzzzzzz plays JC
+Info: 123456 won
+Info: 123456 plays 6H
+S: T 6
+C: 6
+D: 6 3
+H: 4
+[H] play> Info: dddd plays 8H
+Info: zzzzzzzz plays QH
+Info: zzzzzzzz won
+Info: zzzzzzzz plays 5S
+Info: 123456 plays QS
+S: T 6
+C: 6
+D: 6 3
+H:
+[S] play> Info: dddd plays 4S
+Info: 123456 won
+Info: 123456 plays 7S
+S: T
+C: 6
+D: 6 3
+H:
+[S] play> Info: dddd plays 9S
+Info: zzzzzzzz plays 8S
+Info: CCC won
+S:
+C: 6
+D: 6 3
+H:
+Lead> Info: dddd plays 8D
+Info: zzzzzzzz plays JS
+Info: 123456 plays TD
+Info: CCC won
+S:
+C:
+D: 6 3
+H:
+Lead> Info: dddd plays AD
+Info: zzzzzzzz plays KS
+Info: 123456 plays KD
+Info: dddd won
+Info: dddd plays QD
+Info: zzzzzzzz plays AS
+Info: 123456 plays TH
+S:
+C:
+D: 6
+H:
+[D] play> Info: 123456 won
+Info: Team 1=220, Team 2=350
+S: Q 7
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+Info: 123456 bids 9H
+Info: 123456 plays 2S
+S: Q 7
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+[S] play> Info: dddd plays TS
+Info: zzzzzzzz plays 4S
+Info: CCC won
+S: 7
+C: Q 7 3
+D: K T 7 5
+H: A T 6 2
+Lead> Info: dddd plays AC
+Info: zzzzzzzz plays KC
+Info: 123456 plays 5C
+Info: dddd won
+Info: dddd plays KH
+Info: zzzzzzzz plays 5H
+Info: 123456 plays 3H
+S: 7
+C: Q 7
+D: K T 7 5
+H: A T 6 2
+[H] play> Info: CCC won
+S: 7
+C: Q 7
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays 6S
+Info: zzzzzzzz plays 9S
+Info: 123456 plays 3S
+Info: zzzzzzzz won
+Info: zzzzzzzz plays AD
+Info: 123456 plays 8C
+S:
+C: Q 7
+D: K T 7 5
+H: T 6 2
+[D] play> Info: dddd plays JD
+Info: zzzzzzzz won
+Info: zzzzzzzz plays 9C
+Info: 123456 plays JC
+S:
+C: Q 7
+D: K T 7
+H: T 6 2
+[C] play> Info: dddd plays TC
+Info: 123456 won
+Info: 123456 plays AS
+S:
+C: Q
+D: K T 7
+H: T 6 2
+[S] play> Info: dddd plays 6C
+Info: zzzzzzzz plays 8H
+Info: zzzzzzzz won
+Info: zzzzzzzz plays JH
+Info: 123456 plays QH
+S:
+C: Q
+D: T 7
+H: T 6 2
+[H] play> Info: dddd plays 4H
+Info: 123456 won
+Info: 123456 plays 7H
+S:
+C: Q
+D: T 7
+H: T 6
+[H] play> Info: dddd plays 9H
+Info: zzzzzzzz plays 2D
+Info: dddd won
+Info: dddd plays 2C
+Info: zzzzzzzz plays 4C
+Info: 123456 plays 5S
+S:
+C: Q
+D: T 7
+H: T
+[C] play> S:
+C: Q
+D: T 7
+H: T
+[C] play> Info: CCC won
+S:
+C:
+D: T 7
+H: T
+Lead> Info: dddd plays 3D
+Info: zzzzzzzz plays QD
+Info: 123456 plays 8S
+Info: zzzzzzzz won
+Info: zzzzzzzz plays 8D
+Info: 123456 plays JS
+S:
+C:
+D: T
+H: T
+[D] play> Info: dddd plays 9D
+Info: CCC won
+S:
+C:
+D:
+H: T
+Lead> Info: dddd plays 6D
+Info: zzzzzzzz plays 4D
+Info: 123456 plays KS
+Info: CCC won
+Info: Team 1=-80, Team 2=350
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: A T 6 2
+Info: 123456 bids 9H
+Info: 123456 plays 3H
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: A T 6 2
+[H] play> Info: dddd plays 4H
+Info: zzzzzzzz plays 5H
+Info: CCC won
+S: Q 7
+C: Q 9 3
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays TS
+Info: zzzzzzzz plays 4S
+Info: 123456 plays AS
+Info: 123456 won
+Info: 123456 plays KS
+S: Q
+C: Q 9 3
+D: K T 7 5
+H: T 6 2
+[S] play> Info: dddd plays 6S
+Info: zzzzzzzz plays 9S
+Info: 123456 won
+Info: 123456 plays 5C
+S:
+C: Q 9 3
+D: K T 7 5
+H: T 6 2
+[C] play> Info: dddd plays 2C
+Info: zzzzzzzz plays 4C
+Info: CCC won
+S:
+C: 9 3
+D: K T 7 5
+H: T 6 2
+Lead> Info: dddd plays 3D
+Info: zzzzzzzz plays 2D
+Info: 123456 plays 7H
+Info: 123456 won
+Info: 123456 plays QH
+S:
+C: 9 3
+D: T 7 5
+H: T 6 2
+[H] play> Info: dddd plays 9H
+Info: zzzzzzzz plays 8H
+Info: 123456 won
+Info: 123456 plays 2S
+S:
+C: 9 3
+D: T 7 5
+H: 6 2
+[S] play> Info: dddd plays AC
+Info: zzzzzzzz plays 4D
+Info: CCC won
+S:
+C: 9 3
+D: T 7 5
+H: 6
+Lead> Info: dddd plays KH
+Info: zzzzzzzz plays JH
+Info: 123456 plays 3S
+Info: dddd won
+Info: dddd plays JD
+Info: zzzzzzzz plays AD
+Info: 123456 plays 5S
+S:
+C: 9 3
+D: T 7 5
+H:
+[D] play> S:
+C: 9 3
+D: T 7 5
+H:
+[D] play> Info: zzzzzzzz won
+Info: zzzzzzzz plays 7C
+Info: 123456 plays JC
+S:
+C: 9 3
+D: T 7
+H:
+[C] play> Info: dddd plays 8C
+Info: 123456 won
+Info: 123456 plays 8S
+S:
+C: 9
+D: T 7
+H:
+[S] play> Info: dddd plays 6D
+Info: zzzzzzzz plays KC
+Info: 123456 won
+Info: 123456 plays JS
+S:
+C:
+D: T 7
+H:
+[S] play> Info: dddd plays 6C
+Info: zzzzzzzz plays 8D
+Info: 123456 won
+Info: 123456 plays TC
+S:
+C:
+D: T
+H:
+[C] play> Info: dddd plays 9D
+Info: zzzzzzzz plays QD
+Info: 123456 won
+Info: Team 1=220, Team 2=350
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+Info: 123456 bids 9H
+Info: 123456 plays AH
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+[H] play> Info: dddd plays 5H
+Info: zzzzzzzz plays 3H
+Info: 123456 won
+Info: 123456 plays KD
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: 9 4
+[D] play> Info: dddd plays 2D
+Info: zzzzzzzz plays 7H
+Info: zzzzzzzz won
+Info: zzzzzzzz plays QH
+Info: 123456 plays 2H
+S: T 6
+C: A T 6 2
+D: 9 6 3
+H: 9 4
+[H] play> Info: dddd plays 8H
+Info: zzzzzzzz won
+Info: zzzzzzzz plays AS
+Info: 123456 plays 7S
+S: T 6
+C: A T 6 2
+D: 9 6 3
+H: 9
+[S] play> Info: dddd plays 4S
+Info: zzzzzzzz won
+Info: zzzzzzzz plays KS
+Info: 123456 plays QS
+S: T
+C: A T 6 2
+D: 9 6 3
+H: 9
+[S] play> Info: dddd plays 9S
+Info: zzzzzzzz won
+Info: zzzzzzzz plays JS
+Info: 123456 plays 6H
+S:
+C: A T 6 2
+D: 9 6 3
+H: 9
+[S] play> Info: dddd plays 4C
+Info: 123456 won
+Info: 123456 plays QC
+S:
+C: T 6 2
+D: 9 6 3
+H: 9
+[C] play> Info: dddd plays 9C
+Info: zzzzzzzz plays 5C
+Info: 123456 won
+Info: 123456 plays 7C
+S:
+C: 6 2
+D: 9 6 3
+H: 9
+[C] play> Info: dddd plays KC
+Info: zzzzzzzz plays 8C
+Info: dddd won
+Info: dddd plays AD
+Info: zzzzzzzz plays 8S
+Info: 123456 plays TD
+S:
+C: 6
+D: 9 6 3
+H: 9
+[D] play> Info: dddd won
+Info: dddd plays JH
+Info: zzzzzzzz plays 2S
+Info: 123456 plays TH
+S:
+C: 6
+D: 6 3
+H: 9
+[H] play> Info: dddd won
+Info: dddd plays 4D
+Info: zzzzzzzz plays 3S
+Info: 123456 plays 5D
+S:
+C: 6
+D: 6 3
+H:
+[D] play> Info: 123456 won
+Info: 123456 plays 7D
+S:
+C: 6
+D: 6
+H:
+[D] play> Info: dddd plays 8D
+Info: zzzzzzzz plays JC
+Info: dddd won
+Info: dddd plays QD
+Info: zzzzzzzz plays 5S
+Info: 123456 plays 3C
+S:
+C: 6
+D:
+H:
+[D] play> Info: dddd won
+Info: Team 1=520, Team 2=350
+Info: Winner is Team 1
