@@ -1,4 +1,0 @@
-abcd
-dcba
-bdac
-cadb
