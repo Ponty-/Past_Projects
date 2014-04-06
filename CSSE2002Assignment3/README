@@ -1,0 +1,4 @@
+This was the third and final assignment for CSSE2002 (Programming in the Large).
+It built upon the first two assignments, and involved creating a GUI for simulating interactions using the Swing library and Model-View-Controller pattern.
+
+The assignment was written in Java using Eclipse. I implemented the SpySimulator, SpyModel, SpyView and SpyController classes from the csse2002.security package.

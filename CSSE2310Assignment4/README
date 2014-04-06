@@ -1,0 +1,3 @@
+The fourth CSSE2310 (Computer System Principles and Programming) assignment centred around network programming. The task was to write client and server programs for a card game (as detailed in the assignment sheet). The server was to be multithreaded to run multiple games at a time.
+
+This assignment was written in C. Included is the makefile and some sample decks.

@@ -1,0 +1,3 @@
+The first CSSE2310 (Computer System Principles and Programming) assignment involved file I/O and verification, and some basic C programming with pointers, memory allocation and structs. The end result was a small program that could read in a text file as a 'map' and simulate the movements of a ball around it (see the assignment sheet).
+
+This assignment was written in ANSI-C. I have included some of the files I used to test my solution.

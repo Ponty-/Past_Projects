@@ -1,0 +1,4 @@
+This was the second assignment for CSSE2002 (Programming in the Large).
+It built upon the first assignment, adding some file I/O and more probability problems (see assignment sheet).
+
+The assignment was written in Java using Eclipse. The class I implemented was the SpyMaster class from the csse2002.security package.

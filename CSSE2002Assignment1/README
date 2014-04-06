@@ -1,0 +1,4 @@
+This was the first assignment for CSSE2002 (Programming in the Large).
+We had to write and test code for a trio of classes based around determining the potential outcomes of a series of coin flips (see assignment sheet).
+
+The assignment was written in Java using Eclipse. The classes I implemented were the ConditionalTwoCoinChannel, KnowledgeDistribution and TwoCoinChannel in the csse2002.security package.
