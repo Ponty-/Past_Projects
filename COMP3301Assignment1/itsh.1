@@ -1,0 +1,57 @@
+.TH ITSH 1
+.SH NAME
+itsh \- a simple shell for running commands
+.SH SYNOPSIS
+.B itsh [.IR file]
+.SH DESCRIPTION
+.B itsh
+is a simple command line shell that runs commands read from standard input or from the optional given file.	
+The general syntax of the command line is:
+.PP
+.B command 
+[\fIarg1 arg2\fR ...] [\fI< input_file\fR ...] [\fI> output_file\fR] [\fI&\fR]
+.PP
+or
+.PP 
+.B command 
+[\fIarg1 arg2\fR ...] [\fI> output_file\fR ...] [\fI< input_file\fR] [\fI&\fR]
+.PP
+or
+.PP 
+.B command 
+[\fIarg1\fR ...]
+[\fI< input_file\fR]
+|
+.B command 
+[\fIarg1\fR ...]
+[> output_file]
+[\fI> output_file\fR ...]
+.PP
+Arguments should not include spaces. Commands should not be more than 128 characters long.
+.SH OPTIONS
+itsh takes one optional argument - a file to read commands from instead of standard input. itsh will run all commands from the file and then exit. Lines starting with the '#' character ciybt as comments and thus are ignored.
+.SH EXIT STATUS
+0: After a successful 'exit' command
+.PP
+1: Incorrect number of arguments
+.PP
+2: Unable to open given script file
+.PP
+3: Exit status for a command which failed to execute
+.SH ENVIRONMENT
+.IP HOME
+When using the 'cd' command with no arguments, itsh changes the working directory to that indicated by the HOME variable.
+.SH FILES
+None required.
+.SH NOTES
+Created for COMP3301 Assignment 1 at the University of Queensland.
+.SH BUGS
+Does not react well to one or more extra spaces at the start, end or in between commands.
+.SH EXAMPLE
+echo Shell | cat
+.PP
+cat exampleread.txt &
+.PP
+echo Example > examplewrite.txt
+.SH SEE ALSO
+.BR bash (1)

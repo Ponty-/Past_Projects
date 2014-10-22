@@ -1,0 +1,4 @@
+This was the first assignment for COMP3301 (Operating Systems Architecture).
+For this assignment, we had to write a simple UNIX shell which supported pipes and I/O redirection.
+
+The assignment was written in C.
